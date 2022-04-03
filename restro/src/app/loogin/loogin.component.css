@@ -1,0 +1,25 @@
+.card{
+  margin-top: 15px;
+  border: 1px solid blue;
+  width: 550px;
+  padding: 45px;
+  position: absolute;
+  top: 20%;
+  left: 33%;
+}
+nav{
+  background-color: black;
+  color:aliceblue;
+  padding: 0.5rem;
+  justify-content: center;
+}
+.header{
+  float: right;
+  padding: 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 30px;
+  color: cornsilk;
+  justify-content: center;
+}
+

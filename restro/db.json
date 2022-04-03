@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "name": "12",
+      "email": "34",
+      "mobile": "56",
+      "services": "78"
+    },
+    {
+      "id": 7,
+      "name": "coz",
+      "email": "I",
+      "mobile": "Want",
+      "services": "someday"
+    },
+    {
+      "id": 8,
+      "name": "abcd",
+      "email": "abcd",
+      "mobile": "abcd",
+      "services": "abcd"
+    },
+    {
+      "id": 9,
+      "name": "b",
+      "email": "c",
+      "mobile": "d",
+      "services": "e"
+    }
+  ],
+  "admin": [
+    {
+      "email": "abc@gmail.com",
+      "password": "123"
+    }
+  ],
+  "signup": [
+    {
+      "name": "harsh",
+      "email": "hp@gmail.com",
+      "mobile": "",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "huuuu",
+      "email": "hu@gmail.com",
+      "mobile": "",
+      "password": "123789",
+      "id": 2
+    },
+    {
+      "name": "abcde",
+      "email": "abc@gmail.com",
+      "mobile": "",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "aaaaa",
+      "email": "aaaaaa@gmail.com",
+      "mobile": "1234567895",
+      "password": "1111111",
+      "id": 4
+    },
+    {
+      "name": "abcd",
+      "email": "abcc@gmail.com",
+      "mobile": "789",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

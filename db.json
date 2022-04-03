@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Pulav",
+      "time": "20min",
+      "mobile": "123",
+      "price": "25"
+    },
+    {
+      "id": 3,
+      "name": "Paratha",
+      "time": "20min",
+      "mobile": "123",
+      "price": "45"
+    },
+    {
+      "id": 1,
+      "name": "Chicken Briyani",
+      "time": "30",
+      "mobile": "123",
+      "price": "60"
+    }
+  ],
+  "admin": [
+    {
+      "email": "abc@gmail.com",
+      "password": "123"
+    }
+  ],
+  "signup": [
+    {
+      "name": "harsh",
+      "email": "hp@gmail.com",
+      "mobile": "",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "huuuu",
+      "email": "hu@gmail.com",
+      "mobile": "",
+      "password": "123789",
+      "id": 2
+    },
+    {
+      "name": "abcde",
+      "email": "abc@gmail.com",
+      "mobile": "",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "aaaaa",
+      "email": "aaaaaa@gmail.com",
+      "mobile": "1234567895",
+      "password": "1111111",
+      "id": 4
+    },
+    {
+      "name": "abcd",
+      "email": "abcc@gmail.com",
+      "mobile": "789",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Harsh",
+      "email": "harsh",
+      "mobile": "harsh",
+      "password": "harsh",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

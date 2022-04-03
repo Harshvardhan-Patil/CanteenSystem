@@ -1,0 +1,51 @@
+
+nav{
+  justify-self: right;
+  float: right;
+  margin: 10px 0px 10px 300px;
+
+
+}
+
+
+nav ul{
+  list-style: none;
+
+}
+nav ul li{
+  float: left;
+  padding: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+nav ul li a:hover{
+color: #ff0000;
+}
+
+nav ul li a{
+  color:cornsilk;
+  text-decoration: none;
+  margin-inline: 0;
+}
+
+
+a
+{
+  display: inline-block;
+  position: relative;
+}
+
+.card-header
+{
+    background-color: black;
+}
+.head{
+  float: left;
+  padding: 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 30px;
+  color: cornsilk;
+}

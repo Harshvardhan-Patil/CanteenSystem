@@ -1,0 +1,29 @@
+h2{
+  color:aliceblue
+}
+nav{
+  background-color: black;
+  color:aliceblue;
+  padding: 0.5rem;
+  justify-content: center;
+}
+.header{
+  float: right;
+  padding: 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 30px;
+  color: cornsilk;
+  justify-content: center;
+
+}
+
+
+.styletable{
+  width: 80%;
+  margin: 40px auto;
+}
+table, td,th, tr{
+  border: 1px solid black;
+  text-align: center;
+}
